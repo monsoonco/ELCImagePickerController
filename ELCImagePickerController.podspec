@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
       :file => 'README.md'
     }
     s.author = {'ELC Technologies' => 'http://elctech.com'}
-    s.source = {:git => 'https://github.com/elc/ELCImagePickerController.git',
+    s.source = {:git => 'https://github.com/monsoonco/ELCImagePickerController.git',
     			:tag => '0.1.2'
     		   }
     s.platform = :ios, '5.0'
